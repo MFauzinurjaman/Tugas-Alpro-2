@@ -24,7 +24,7 @@ set_angka = {1, 2, 3, 4, 5}
 set_teks = {"apel", "jeruk", "pisang"}
 
 # Tipe data dictionary
-dict_mahasiswa = {"nama": "John", "usia": 25, "jurusan": "Informatika"}
+dict_mahasiswa = {"nama": "Fauzi", "usia": 20, "jurusan": "Ilmu Komputer"}
 
 # Menampilkan nilai dari masing-masing tipe data
 print("Angka bulat:", angka_bulat)
